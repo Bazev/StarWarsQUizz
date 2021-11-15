@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">FilmQuiz</string>
     <string name="question">Question</string>
-    <string name="button_true">TRUE</string>
-    <string name="button_false">FALSE</string>
+    <string name="button_true">VRAI</string>
+    <string name="button_false">FAUX</string>
     <string name="score">Score</string>
     <string name="question_1">un nouvel espoir, est le premier film dans l ordre chronologique</string>
     <string name="question_2">Maitre Yoda a été le maitre de Dark Tyrannus</string>
@@ -11,6 +11,7 @@
     <string name="question_5">Le sénateur Bail Organa est le prédecesseur de Palpatine</string>
     <string name="question_6">Les courses de pode racers sont financés par les hutts</string>
     <string name="question_7">Les toydariens sont sensibles à la force</string>
-    <string name="question_8"></string>
-
+    <string name="question_8">Sebulba appartient à la race des Dugs</string>
+    <string name="question_9">Boba Feet a été tué par Luke Skywalker</string>
+    <string name="question_10">Les fynocks vivents dans les asteroides</string>
 </resources>
